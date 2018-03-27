@@ -1,7 +1,4 @@
 # MatrixCalculator
-
-This is a project for Software Engineering.
-MatrixCalculator使用说明
 1. 运行环境：python2.7+numpy
 2. 运行：终端输入python MatrixCalculator.py
 3. 界面：
