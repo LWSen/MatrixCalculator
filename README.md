@@ -5,7 +5,7 @@ MatrixCalculator使用说明
 1. 运行环境：python2.7+numpy
 2. 运行：终端输入python MatrixCalculator.py
 3. 界面：
- ![界面](MatrixCalculator.png)
+ ![界面](MatrixCalculator.PNG)
 4. 输入输出：共有三个输入框，三个输出框，只有一行高度的为输入框，高度较高的为输出框。
 矩阵输入格式：
 行优先输入，每一行的元素之间以空格或逗号隔开，行与行之间用分号隔开，如：
