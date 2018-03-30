@@ -3,7 +3,7 @@
 2. 运行：终端输入python MatrixCalculator.py
 3. 界面：
 
-![](MatrixCalculator.PNG)
+![](MatrixCalculator.png)
 
 4. 输入输出：共有三个输入框，三个输出框，只有一行高度的为输入框，高度较高的为输出框。  
 矩阵输入格式：  
